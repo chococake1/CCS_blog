@@ -6,7 +6,7 @@ snippet: I am excited about exploring the world of creative coding!
 
 
 
-![people chillin with their phones!](/240306_first_post/ccs_pfp.png)
+![people chillin with their phones!](/static/240306_first_post/ccs_pfp.png)
 
 Hello, world!!
 
