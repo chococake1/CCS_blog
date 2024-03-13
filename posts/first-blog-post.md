@@ -5,10 +5,10 @@ snippet: I am excited about exploring the world of creative coding!
 disable_html_sanitization: true
 ---
 
-<iframe src="https://editor.p5js.org/capogreco/full/-B11g3Uth" width="100%" height="242px"></iframe>
+<iframe src="[https://editor.p5js.org/capogreco/full/-B11g3Uth](https://editor.p5js.org/chococake1/sketches/my2HtE39e)" width="100%" height="242px"></iframe>
 
 
-![people chillen on their phones!](/240306_first_post/ccs_pfp.png)
+![Checkerboard Grid](/grid/grid1.png)
 
 Hello, world!!
 
