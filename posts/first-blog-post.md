@@ -11,7 +11,7 @@ disable_html_sanitization: true
 
 ![Checkerboard Grid](/grid/grid1.png)
 
-Hello, world!!!
+Hello, world!!
 
 # This is h1
 
