@@ -5,12 +5,12 @@ snippet: I am excited about exploring the world of creative coding!
 disable_html_sanitization: true
 ---
 
-<iframe src="https://editor.p5js.org/chococake1/full/my2HtE39e" width="100%" height="242px"></iframe>
+<iframe src="[https://editor.p5js.org/chococake1/full/my2HtE39e]" width="100%" height="242px"></iframe>
 
 
 ![Checkerboard Grid](/grid/grid1.png)
 
-Hello, world!!
+Hello, world!!!
 
 # This is h1
 
