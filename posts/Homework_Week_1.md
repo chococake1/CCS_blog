@@ -21,7 +21,7 @@ Next, I Changed the colours of the squares and the background, changed the canva
 
 
 ![Checkerboard Grid](/grid/grid3.png)
-![Checkerboard Grid](/grid/grid4.png)
+![Checkerboard Grid](Week1HW/grid/grid4.png)
 ![Checkerboard Grid](/grid/grid5)
 I tried messing around with making all the squares the same shape
 
