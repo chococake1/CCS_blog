@@ -5,8 +5,6 @@ snippet: Week one of homework!
 disable_html_sanitization: true
 ---
 
-Hello, world :D
-
 # Homework Week 1
 
 ## Creating a Grid
