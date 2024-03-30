@@ -10,8 +10,7 @@ Hello, world :D
 # Homework Week 1
 
 ## Creating a Grid
-<iframe src="https://editor.p5js.org/chococake1/full/GuNAEq_wN" width="100%" height="242px"></iframe>
-
+<iframe src="https://editor.p5js.org/chococake1/full/my2HtE39e" width="100%" height="242px"></iframe>
 ![Checkerboard Grid](/grid/grid1.png)
 I started by using the square p5js of squares moving as a base, this was because it already had way of organising squares depending on how much there were
 
