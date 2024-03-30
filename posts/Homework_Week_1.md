@@ -21,14 +21,13 @@ Next, I Changed the colours of the squares and the background, changed the canva
 
 
 ![Checkerboard Grid](/grid/grid3.png)
-![Checkerboard Grid](Week1HW/grid/grid4.png)
+![Checkerboard Grid](/grid/grid4.png)
 ![Checkerboard Grid](/grid/grid5)
 I tried messing around with making all the squares the same shape
 
 ![Checkerboard Grid](/grid/grid7.png)
 Until I got to this which looked similar to a row in a checkerboard
 
-![Checkerboard Grid](/240306_first_post/ccs_pfp.png)
 ![Checkerboard Grid](/grid/grid8.png)
 ![Checkerboard Grid](/grid/grid9.png)
 I oriented the rows and repeated them to create this grid effect, I’m not to sure where the number 71 fits in on line 15, but I got it after trial and error
