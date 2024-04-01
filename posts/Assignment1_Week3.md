@@ -1,4 +1,3 @@
-![image](https://github.com/chococake1/CCS_blog/assets/101231598/b1107b63-3801-4879-aa1f-c540c8da2de2)---
 title: Assignment 1
 published_at: 2024-03-30
 snippet: Assignment 1
