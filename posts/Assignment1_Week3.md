@@ -1,3 +1,4 @@
+---
 title: Assignment 1
 published_at: 2024-03-30
 snippet: Assignment 1
