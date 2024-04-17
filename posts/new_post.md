@@ -9,6 +9,8 @@ disable_html_sanitization: true
 
 <canvas id="c2"/>
 
+testing
+
 Code from [here](https://github.com/ren-yuan/c2.js/blob/main/examples/Chromosome1.js).
 
 <script>
