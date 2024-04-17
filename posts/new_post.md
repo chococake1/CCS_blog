@@ -14,6 +14,8 @@ Code from [here](https://github.com/ren-yuan/c2.js/blob/main/examples/Chromosome
 <script>
 //Created by Ren Yuan
 
+console.dir (p5)
+    
 const renderer = new c2.Renderer(document.getElementById('c2'));
 resize();
 
