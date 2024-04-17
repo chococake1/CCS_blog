@@ -9,10 +9,11 @@ disable_html_sanitization: true
 
 <canvas id="c2"/>
 
-//Created by Ren Yuan
 Code from [here](https://github.com/ren-yuan/c2.js/blob/main/examples/Chromosome1.js).
 
 <script>
+//Created by Ren Yuan
+
 const renderer = new c2.Renderer(document.getElementById('c2'));
 resize();
 
