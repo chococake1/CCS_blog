@@ -12,6 +12,7 @@ disable_html_sanitization: true
 //Created by Ren Yuan
 Code from [here](https://github.com/ren-yuan/c2.js/blob/main/examples/Chromosome1.js)
 
+<script>
 const renderer = new c2.Renderer(document.getElementById('c2'));
 resize();
 
@@ -103,7 +104,10 @@ renderer.draw(() => {
 
 
 window.addEventListener('resize', resize);
+
+    
 function resize() {
     let parent = renderer.canvas.parentElement;
     renderer.size(parent.clientWidth, parent.clientWidth / 16 * 9);
 }
+</script>
