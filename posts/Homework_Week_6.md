@@ -13,8 +13,8 @@ testing
 
 Code from [here](https://github.com/ren-yuan/c2.js/blob/main/examples/Chromosome1.js).
 
-<script>
 //Created by Ren Yuan
+<script>
 
 console.dir (p5)
     
