@@ -1,5 +1,5 @@
 ---
-title: Homework_Week_6!
+title: Week 6 Homework
 published_at: 2024-04-17
 snippet: Homework 6
 disable_html_sanitization: true
