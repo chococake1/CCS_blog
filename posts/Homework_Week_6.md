@@ -5,9 +5,9 @@ snippet: Week six of homework!
 disable_html_sanitization: true
 ---
 
+testing
 
-
-<script src="/scripts/c2.js"></script>
+<script src="/scripts/c2.min.js"></script>
 
 <canvas id="c2"/>
 
