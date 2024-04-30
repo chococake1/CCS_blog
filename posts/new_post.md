@@ -1,7 +1,7 @@
 ---
-title: New post
+title: Homework_Week_6!
 published_at: 2024-04-17
-snippet: Homework_Week_6!
+snippet: Homework 6
 disable_html_sanitization: true
 ---
 
