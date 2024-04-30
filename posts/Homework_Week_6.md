@@ -6,12 +6,12 @@ disable_html_sanitization: true
 ---
 
 testing
+Code from [here](https://github.com/ren-yuan/c2.js/blob/main/examples/Chromosome1.js).
 
 <script src="/scripts/c2.min.js"></script>
 
 <canvas id="c2"/>
 
-Code from [here](https://github.com/ren-yuan/c2.js/blob/main/examples/Chromosome1.js).
 
 //Created by Ren Yuan
 <script>
