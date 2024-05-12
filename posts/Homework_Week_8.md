@@ -5,11 +5,11 @@ snippet: Assignment 2 Response/Reflection
 disable_html_sanitization: true
 ---
 
-##Response
+#Response
 My piece responds to Kerry Mitchell's Gallery 47, using simple geometry to make something interesting, but looking at the rubric, I decided I had to make something with
 much more depth, so I added movement and user interactivity
 
-##Reflection
+#Reflection
 For my assignment 2, we were to make a 'Chaotic' Javascript piece, for my assignment I chose to make a square that bounces around the screen, leaving behind previously
 made squares, clicking the screen will make the square freeze, originally I wanted it to create a small square that sorted the pixels on screen by colour but could not get
 it working so I settled on this. Next time I could organise my time better so I could finish on time, though I was sick for 2 weeks of class, so there was a fair bit of 
