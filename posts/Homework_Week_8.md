@@ -15,3 +15,5 @@ made squares, clicking the screen will make the square freeze, originally I want
 it working so I settled on this. Next time I could organise my time better so I could finish on time, though I was sick for 2 weeks of class, so there was a fair bit of 
 material I had to catch up on. If I had attended those classes, I would have liked to include fractals or the aforementioned pixel sorting squares that I couldn't
 figure out in time.
+
+I decided to call the compositino 'squares dreaming' since I thought it fit the trippy look of the piece, especially after the screen is fileld up
